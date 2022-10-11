@@ -1,0 +1,19 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+#back{
+float:right;
+background-color: black;
+color:azure;
+font-size: 25px;
+}
